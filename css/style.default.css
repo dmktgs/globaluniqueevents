@@ -396,7 +396,7 @@ nav.navbar {
 nav.navbar .nav-link {
   color: #333;
   letter-spacing: 0.08rem;
-  font-size: 0.95rem;
+  font-size: 1.25rem;
   padding-top: 40px;
   padding-bottom: 40px;
   border-top: 2px solid transparent;
@@ -748,6 +748,7 @@ section.services .service .icon {
   height: 80px;
   line-height: 80px;
   border: 2px dotted #b7b7b7;
+  
   border-radius: 50%;
   margin: 0 auto 20px;
 }
@@ -1310,7 +1311,7 @@ footer p {
 }
 
 footer ul.contact a, footer ul.contact li {
-  color: #555;
+  color: #fff;
   letter-spacing: 1px;
   margin: 5px 0;
 }
