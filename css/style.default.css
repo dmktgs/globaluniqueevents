@@ -293,7 +293,7 @@ section header {
 
 section h2 {
   font-size: 4rem;
-  color: #111;
+  color: #a17454;
 }
 
 section h3 {
@@ -311,7 +311,7 @@ section h4 {
   letter-spacing: 0.2em;
   font-size: 1.15rem;
   font-weight: 700;
-  color: #333;
+  color: #fff;
 }
 
 section h4 + p {
@@ -735,6 +735,10 @@ section.about::before {
 /* ==========================================
    Services Section
    ========================================== */
+   section.services {
+    background: #222;
+    padding: 150px 0 0;
+  }
 section.services .service:hover .icon {
   border-color: #767a67;
 }
