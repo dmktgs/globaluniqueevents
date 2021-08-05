@@ -736,18 +736,18 @@ section.about::before {
    Services Section
    ========================================== */
 section.services .service:hover .icon {
-  border-color: #cc9b36;
+  border-color: #767a67;
 }
 
 section.services .service:hover .icon i {
-  color: #cc9b36;
+  color: #767a67;
 }
 
 section.services .service .icon {
   width: 80px;
   height: 80px;
   line-height: 80px;
-  border: 2px dotted #b7b7b7;
+  border: 2px dotted #cc9b36;
   
   border-radius: 50%;
   margin: 0 auto 20px;
@@ -755,7 +755,7 @@ section.services .service .icon {
 
 section.services .service .icon i {
   font-size: 25px;
-  color: #b7b7b7;
+  color: #697fb3;
 }
 
 @media (max-width: 767.98px) {
